@@ -1,0 +1,17 @@
+body {
+    background-image: url('fon.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button {
+  padding: 5px 5px;
+  outline: none;
+  border: none;
+  border-radius: 25px;
+  background: rgb(255, 230, 0);
+  cursor: pointer;
+  box-shadow: 0px 5px 10px
+}
+
+
